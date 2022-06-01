@@ -1,6 +1,6 @@
 # CrypteRRR - Explore the World of Cryptocurrency
 
-![CryptoRRR](https://i.ibb.co/8gh5Jc8/image.png)
+![CryptoRRR]
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
